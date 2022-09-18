@@ -1,1 +1,2 @@
-print ("Hello World")
+print ("Czesc Ania. Jak sie masz?"
+       "")
